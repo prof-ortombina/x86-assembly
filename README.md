@@ -1,4 +1,4 @@
-# Author Ivan Ortombina, teacher
+# Author Ivan Ortombina, teacher...
 # Department of Computer Science
 # IIS Einaudi-Scarpa Montebelluna Italy
 
