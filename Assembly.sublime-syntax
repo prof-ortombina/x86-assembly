@@ -3,7 +3,7 @@
 # Author: Ivan Ortombina, teacher @ IIS Einaudi-Scarpa Montebelluna, Italy
 # See http://www.sublimetext.com/docs/syntax.html
 name: Assembly
-file_extensions: [c, h]
+file_extensions: [cs h]
 scope: source.example-c
 contexts:
   main:
