@@ -16,3 +16,4 @@ Come stampare una stringa presente in memoria: il programma printString.s
 
 #### 2022-02-11
 Come vedere se un numero è primo, intrudizione alle funzioni (prcedure): il programma isPrimo.s
+Alcuni esempi di come sono tradotte le istruzioni IF e FOR in linguaggio assembly: il programma esempioIstruzioni.s
