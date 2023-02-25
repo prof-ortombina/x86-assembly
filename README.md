@@ -16,3 +16,6 @@ Come stampare una stringa presente in memoria: il programma printString.s
 
 #### 2022-02-11
 Come vedere se un numero è primo, intrudizione alle funzioni (prcedure): il programma isPrimo.s
+
+#### 2022-03-01
+Trovare il massimo ed il minimo tra un elenco di numeri in memoria. utilizzo di puntatori ed offset: il programma maxmin.s
