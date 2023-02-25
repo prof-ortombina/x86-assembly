@@ -23,9 +23,9 @@ contexts:
     # strings in YAML. When using single quoted strings, only single quotes
     # need to be escaped: this is done by using two single quotes next to each
     # other.
-    - match: '\b(MOV|NOP|PUSH|POP|XCHG|IN|OUT|ADD|ADC|DAA|INC|SUB|SBB|CMP|NEG|DEC|DAS|MUL|IMUL|DIV|IDIV|CBW|CWD|AND|NOT|OR|TEST|XOR|RCL|RCR|ROL|ROR|SAL|SAR|SHL|SHR|CLC|CLD|CLI|CMC|STC|STD|STI|CALL|JMP|RET|JA|JAE|JB|JBE|JC|JCXZ|JE|JG|JGE|JL|JLE|JNC|JNE|JNO|JNS|JO|JS|JPE|JPO|LOOP|LOOPNE)\b'
+    - match: '\b(MOV|NOP|PUSH|POP|XCHG|IN|OUT|ADD|ADC|DAA|INC|SUB|SBB|CMP|NEG|DEC|DAS|MUL|IMUL|DIV|IDIV|CBW|CWD|AND|NOT|OR|TEST|XOR|RCL|RCR|ROL|ROR|SAL|SAR|SHL|SHR|CLC|CLD|CLI|CMC|STC|STD|STI|CALL|JMP|RET|JA|JAE|JB|JBE|JC|JCXZ|JE|JG|JGE|JL|JLE|JNC|JNE|JNO|JNS|JO|JS|JPE|JPO|LOOP|LOOPNE|OFFSET)\b'
       scope: keyword.control.example-c
-    - match: '\b(mov|nop|push|pop|xchg|in|out|add|adc|daa|inc|sub|sbb|cmp|neg|dec|das|mul|imul|div|idiv|cbw|cwd|and|not|or|test|xor|rcl|rcr|rol|ror|sal|sar|shl|shr|clc|cld|cli|cmc|stc|std|sti|call|jmp|ret|ja|jae|jb|jbe|jc|jcxz|je|jg|jge|jl|jle|jnc|jne|jno|jns|jo|js|jpe|jpo|loop|loopne)\b'
+    - match: '\b(mov|nop|push|pop|xchg|in|out|add|adc|daa|inc|sub|sbb|cmp|neg|dec|das|mul|imul|div|idiv|cbw|cwd|and|not|or|test|xor|rcl|rcr|rol|ror|sal|sar|shl|shr|clc|cld|cli|cmc|stc|std|sti|call|jmp|ret|ja|jae|jb|jbe|jc|jcxz|je|jg|jge|jl|jle|jnc|jne|jno|jns|jo|js|jpe|jpo|loop|loopne|offset)\b'
       scope: keyword.control.example-c
 
     # Numbers
